@@ -1,0 +1,5 @@
+{{#user}}
+Name: S Kavya
+Skills: HTML, CSS, JS, Next.js,React.js
+Email: kavyameghamalhar@gmail.com
+{{/user}}
